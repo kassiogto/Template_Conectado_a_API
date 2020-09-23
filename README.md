@@ -27,7 +27,7 @@ $ git clon https://github.com/kassiogto/Template_API_Conection.git
 <br>
 $ npm install / yarn install
 <br>
-No arquivo Template_API_Conection/src/service/api.tsx -> Coloque a Url da sua API
+No arquivo Template_API_Conection/src/service/api.tsx -> Coloque o Link da sua API
 <br>
 __
 <br>
