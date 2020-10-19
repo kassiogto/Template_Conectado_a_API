@@ -34,7 +34,6 @@ __
 E em Template_API_Conection/src/service/authe.tsx -> coloque sua Rota de Login
 <br>
 $ npm start
-<br>
-Acessando http://localhost:3000
+
 
  
