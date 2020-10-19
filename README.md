@@ -1,6 +1,6 @@
 
 # Template em ReactJs usando Typescript
-### Template de login Conectado a Api usando Axios e Ui Design com Styled Components 
+### Template de login Conectado a Api usando Axios com Styled Components 
 
 ![Template-gif](https://github.com/kassiogto/Template_API_Conection/blob/master/Webp.net-gifmaker.gif)
 
